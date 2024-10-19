@@ -20,7 +20,7 @@ This is a template for creating a landing page for the AI product/project. It is
 
 To get started, just clone the repository and run `npm install && npm run dev`:
 
-    git clone https://github.com/andyhou965/ai-landing-page.git
+    git clone https://github.com/andytech01/ai-landing-page.git
     npm install
     npm run dev
 
