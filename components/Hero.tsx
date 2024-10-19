@@ -10,7 +10,7 @@ const Hero = () => {
       <div className="absolute flex flex-row items-center justify-center w-full -top-4">
         <StarsBackground starDensity={0.0003} allStarsTwinkle={false} />
         <div className="relative w-full h-[30rem] md:h-[32rem]">
-          <Spline scene="https://prod.spline.design/Ow3bngGcG284rHem/scene.splinecode" />
+          <Spline scene="https://prod.spline.design/uXJJ-9JgefDmViX3/scene.splinecode" />
         </div>
       </div>
       <div className="text-center">
