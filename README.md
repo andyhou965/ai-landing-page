@@ -1,8 +1,8 @@
-# 🤖 AI Landing Page Template
+# 🤖 AI Landing Page
 
 ## Introduction
 
-This is a template for creating a landing page for an AI project. It is built with Next.js and Tailwind CSS. The template includes a hero section, features section, and a workflow section.
+This is a template for creating a landing page for the AI product/project. It is built with Next.js and Tailwind CSS. The template includes the hero section, features section, and workflow section.
 
 ### Hero Section
 
